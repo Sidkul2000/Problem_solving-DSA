@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0724-find-pivot-index) |
+| [1319-unique-number-of-occurrences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1833-find-the-highest-altitude) |
@@ -24,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
