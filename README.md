@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
