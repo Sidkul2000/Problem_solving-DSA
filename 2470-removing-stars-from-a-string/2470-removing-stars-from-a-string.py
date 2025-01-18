@@ -7,8 +7,8 @@ class Solution:
                 stack.pop()
             else:
                 stack.append(i)
-        for i in stack:
-            ans += i
-        return str(ans)
+        # for i in stack:
+        #     ans += i
+        return "".join(stack)
 
         
