@@ -7,7 +7,7 @@
 class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
         def getVal(root, value):
-            if not root:
+            if root == None:
                 return
             if not root.left and not root.right:
                 value.append(root.val)
@@ -21,8 +21,3 @@ class Solution:
         getVal(root2, val2)
 
         return val1 == val2
-
-
-
-
-        
