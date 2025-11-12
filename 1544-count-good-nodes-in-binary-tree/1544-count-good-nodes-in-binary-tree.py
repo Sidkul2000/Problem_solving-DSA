@@ -18,6 +18,5 @@ class Solution:
             dfs(root.right, maxval)
         
         count = [0]
-        maxval = -inf
-        dfs(root, maxval)
+        dfs(root, root.val)
         return count[0]
