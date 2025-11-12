@@ -11,13 +11,13 @@ class Solution:
         def dfs(root, maxval):
             if root == None:
                 return
-            if (root.val >= maxval):
+            if root.val >= maxval:
                 count[0] += 1
                 maxval = root.val
             dfs(root.left, maxval)
             dfs(root.right, maxval)
         
         count = [0]
-        dfs(root, root.val)
+        maxval = -inf
+        dfs(root, maxval)
         return count[0]
-
