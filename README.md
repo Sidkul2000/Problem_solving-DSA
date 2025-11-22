@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1833-find-the-highest-altitude) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0007-reverse-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search Tree
 |  |
 | ------- |
