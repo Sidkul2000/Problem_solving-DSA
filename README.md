@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1833-find-the-highest-altitude) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1777-determine-if-two-strings-are-close) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0005-longest-palindromic-substring) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Tree
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
