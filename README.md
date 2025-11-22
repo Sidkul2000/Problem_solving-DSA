@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -139,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
