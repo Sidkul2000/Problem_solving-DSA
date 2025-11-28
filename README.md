@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0006-zigzag-conversion) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0649-dota2-senate) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
