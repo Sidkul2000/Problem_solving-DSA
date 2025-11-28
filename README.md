@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
