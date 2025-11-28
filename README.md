@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0007-reverse-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1513-number-of-substrings-with-only-1s) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search Tree
 |  |
