@@ -3,6 +3,8 @@ class Solution:
         minp = prices[0]
         maxprof = 0
         for p in prices:
-            minp = min(p, minp)
-            maxprof = max(maxprof, p - minp)
+            if p <= minp:
+                minp = p
+            else:
+                maxprof = max(maxprof, p - minp)
         return maxprof
