@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0394-decode-string) |
+| [0443-string-compression](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0649-dota2-senate) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0443-string-compression](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0443-string-compression) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
