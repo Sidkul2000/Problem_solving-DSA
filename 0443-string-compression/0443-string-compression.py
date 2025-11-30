@@ -1,28 +1,24 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
+        if not chars:
+            return 0
         n = len(chars)
         s = ""
-        i, j = 0, 1
-        c = 0
-        while j<n:
-            if (chars[i] == chars[j]):
-                j+=1
-                c+=1
-            elif c == 0:
-                s = s + chars[i]
-                i+=1
-                j+=1
+        cnt = 1
+        temp = chars[0]
+        for i in range(1, n):
+            if chars[i] != temp:
+                temp = chars[i]
+                s = s + chars[i-1]
+                if cnt != 1:
+                    s = s + str(cnt)
+                cnt = 1
             else:
-                s = s + chars[i] + str(j-i)
-                i = j
-                j+=1
-                c = 0
-        if (j-i) != 1:
-            s = s + chars[i] + str(j-i)
-        else:
-            s = s + chars[i]
-        for i in range(len(s)):
-            chars[i] = s[i]
-        chars = chars[:len(s)]
-        return len(chars)
-        
+                cnt += 1
+        s += chars[n-1]
+        if cnt != 1:
+            s += str(cnt)
+        for i, char in enumerate(s):
+            chars.insert(i, char)
+        return len(s)
+
