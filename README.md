@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0200-number-of-islands) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0394-decode-string) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
