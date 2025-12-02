@@ -8,7 +8,8 @@ class Solution:
         maxwater = min(height[0], height[n-1]) * (n-1)
         while left < right:
             water = min(height[left], height[right]) * (right - left)
-            maxwater = max(maxwater, water)
+            if water > maxwater:
+                maxwater = water
             if height[left] >= height[right]:
                 right -= 1
             else:
