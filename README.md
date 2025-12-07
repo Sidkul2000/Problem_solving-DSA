@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1833-find-the-highest-altitude) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
