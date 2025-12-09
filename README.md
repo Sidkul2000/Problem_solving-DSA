@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1925-count-square-sum-triples) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -222,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
