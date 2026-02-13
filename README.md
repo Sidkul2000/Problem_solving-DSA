@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0443-string-compression) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0007-reverse-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0326-power-of-three) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1513-number-of-substrings-with-only-1s) |
