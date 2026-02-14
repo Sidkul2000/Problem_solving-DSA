@@ -6,7 +6,11 @@ class Solution:
         n = len(nums)
         k = k%n
         temp = nums.copy()
-        for i in range(k):
-            nums[i] = temp[n-k+i]
-        for i in range(k, n):
-            nums[i] = temp[i-k]
+        def rev(l,r):
+            while (l<r):
+                nums[l], nums[r] = nums[r], nums[l]
+                l += 1
+                r -= 1
+        rev(0, n-1)
+        rev(0, k-1)
+        rev(k, n-1)
