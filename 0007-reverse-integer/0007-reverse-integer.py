@@ -1,17 +1,19 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        sign = -1 if x < 0 else 1
-        x = abs(x)
-        def func(x, rev):
-            if x == 0:
-                return rev
-            if x > 0:
-                rem = x % 10
-            else:
-                rem = x % 10
+        sign = 1
+        if x < 0:
+            sign = -1
+        x = x*sign
+        
+        if x == 1 or x == 0:
+            return x*sign
+        rev = 0
+        while x != 0:
+            rev = rev*10 + x % 10
             x = x//10
-            rev = rev*10 + rem
-            return func(x, rev)
-        rev = sign * func(x, 0)
-        return rev if -(2**31) <= rev <= (2**31 - 1) else 0
+        if rev >= 2**31:
+            return 0
+        return rev*sign
+        
+
         
