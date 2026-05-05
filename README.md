@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0009-palindrome-number) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0326-power-of-three) |
