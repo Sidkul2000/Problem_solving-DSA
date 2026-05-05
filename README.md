@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0091-decode-ways) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1925-count-square-sum-triples) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
