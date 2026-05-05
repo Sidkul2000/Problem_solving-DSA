@@ -1,20 +1,22 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
-        i = 0
-        l = 1
-        if len(s) == 1 or numRows == 1:
+        if numRows == 1:
             return s
-        word = [""] * numRows
-        for w in s:
-            word[i] += w
-            if i == 0:
-                l = 1
-            elif i == numRows-1:
-                l = -1
-            i += l
-        
-        return ''.join(word)
-            
+        n = len(s)
+        l = 0
+        matrix = [[] for _ in range(numRows)]
+        while l < n:
+            for i in range(numRows):
+                if l<n:
+                    matrix[i].append(s[l])
+                    l += 1
+            for j in range(numRows-2, 0, -1):
+                if l<n:
+                    matrix[j].append(s[l])
+                    l += 1
+        answer = ""
+        for i in matrix:
+            answer += ''.join(i)
+        return answer
 
 
-        
