@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0091-decode-ways) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
