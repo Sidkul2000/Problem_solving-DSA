@@ -1,18 +1,19 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        # c = 0
-        # if len(s) != len(t):
-        #     return False
-        # for i in s:
-        #     if i in t:
-        #         c += 1
-        # if c == len(s) == len(t):
-        #     return True
-        # else:
-        #     return False
-        s = sorted(s)
-        t = sorted(t)
-        if s==t:
+        s_dict = {}
+        c_dict = {}
+        for i in s:
+            if i in s_dict:
+                s_dict[i] += 1
+            else:
+                s_dict[i] = 1
+        for i in t:
+            if i in c_dict:
+                c_dict[i] += 1
+            else:
+                c_dict[i] = 1
+
+        if s_dict == c_dict:
             return True
         else:
             return False
