@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0200-number-of-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0450-delete-node-in-a-bst) |
