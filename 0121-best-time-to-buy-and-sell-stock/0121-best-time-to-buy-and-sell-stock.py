@@ -1,13 +1,13 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         maxp = -9999
-        p = prices[0]
+        l = 0
         n = len(prices)
         if n==1:
             return 0
-        for i in range(1,n):
-            if prices[i] <= p:
-                p = prices[i]
-            maxp = max(maxp, prices[i] - p)
+        for r in range(1,n):
+            if prices[r] <= prices[l]:
+                l = r
+            s = prices[r] - prices[l]
+            maxp = max(maxp, s)
         return maxp
-        
