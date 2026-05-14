@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0518-coin-change-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0724-find-pivot-index) |
