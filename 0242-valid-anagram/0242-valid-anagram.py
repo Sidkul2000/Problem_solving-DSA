@@ -1,20 +1,15 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        s_dict = {}
-        c_dict = {}
+        mp1 = {}
+        mp2 = {}
         for i in s:
-            if i in s_dict:
-                s_dict[i] += 1
+            if i in mp1:
+                mp1[i] += 1
             else:
-                s_dict[i] = 1
+                mp1[i] = 1
         for i in t:
-            if i in c_dict:
-                c_dict[i] += 1
+            if i in mp2:
+                mp2[i] += 1
             else:
-                c_dict[i] = 1
-
-        if s_dict == c_dict:
-            return True
-        else:
-            return False
-        
+                mp2[i] = 1
+        return mp1 == mp2
