@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0443-string-compression) |
