@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0242-valid-anagram) |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
