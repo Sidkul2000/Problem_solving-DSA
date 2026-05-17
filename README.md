@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0739-daily-temperatures) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0969-number-of-recent-calls) |
 ## Queue
