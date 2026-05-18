@@ -1,21 +1,15 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        n = len(s)
+        mp = {}
         l = 0
         res = 0
-        mp = {}
-        for r in range(n):
+        for r in range(len(s)):
             if s[r] in mp:
                 mp[s[r]] += 1
             else:
                 mp[s[r]] = 1
-            maxf = max(mp.values())
-            curr = r - l + 1
-            if curr - maxf > k:
+            if (r-l+1) - max(mp.values()) > k:
                 mp[s[l]] -= 1
                 l += 1
             res = max(res, r-l+1)
         return res
-
-
-        
