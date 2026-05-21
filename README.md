@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0875-koko-eating-bananas) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1046-last-stone-weight](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1046-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
