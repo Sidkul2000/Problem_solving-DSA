@@ -9,15 +9,17 @@ class Solution:
         res = []
         q = collections.deque([root])
 
+        if not root:
+            return []
+
         while q:
-            r = None
             n = len(q)
             for i in range(n):
                 node = q.popleft()
-                if node:
-                    r = node
+                if i == n-1:
+                    res.append(node.val)
+                if node.left:
                     q.append(node.left)
+                if node.right:
                     q.append(node.right)
-            if r:
-                res.append(r.val)
         return res
