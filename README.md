@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0518-coin-change-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0326-power-of-three) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0704-binary-search](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0704-binary-search) |
@@ -323,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Union Find
 |  |
