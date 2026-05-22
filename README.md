@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0064-minimum-path-sum) |
@@ -414,5 +415,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
