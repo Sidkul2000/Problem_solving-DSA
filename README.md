@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0152-maximum-product-subarray) |
 | [0518-coin-change-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1143-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0649-dota2-senate) |
+| [1143-longest-common-subsequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1777-determine-if-two-strings-are-close) |
