@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0724-find-pivot-index) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0394-decode-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0011-container-with-most-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0649-dota2-senate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0649-dota2-senate) |
 ## Linked List
 |  |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -413,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0042-trapping-rain-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
 ## String Matching
