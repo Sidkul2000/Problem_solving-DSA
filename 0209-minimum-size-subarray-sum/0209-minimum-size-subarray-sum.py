@@ -11,7 +11,7 @@ class Solution:
                 res = min(res, r-l+1)
                 s -= nums[l]
                 l += 1
-        if res == 99999:
+        if res == float(inf):
             res = 0
         return res
 
