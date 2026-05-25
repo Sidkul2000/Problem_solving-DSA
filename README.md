@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1833-find-the-highest-altitude) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0875-koko-eating-bananas) |
