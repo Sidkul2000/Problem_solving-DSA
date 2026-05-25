@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0904-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0567-permutation-in-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
+| [0904-fruit-into-baskets](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
