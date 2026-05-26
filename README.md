@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0695-max-area-of-island](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0695-max-area-of-island) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0695-max-area-of-island) |
 | [0904-leaf-similar-trees](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0695-max-area-of-island) |
 ## Geometry
 |  |
 | ------- |
