@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0844-backspace-string-compare](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1143-longest-common-subsequence) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2470-removing-stars-from-a-string) |
