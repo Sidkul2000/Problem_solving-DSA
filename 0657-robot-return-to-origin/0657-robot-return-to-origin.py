@@ -1,14 +1,14 @@
 class Solution:
     def judgeCircle(self, moves: str) -> bool:
-        mp = defaultdict(str)
-        
+        x, y = 0, 0
         for i in moves:
-            if i in mp:
-                mp[i] += 1
-            else:
-                mp[i] = 1
-        if mp["U"]==mp["D"] and mp["L"]==mp["R"]:
-            return True
-        else:
-            return False
+            if i=="U":
+                x+=1
+            elif i=="D":
+                x-=1
+            elif i=="L":
+                y+=1
+            elif i=="R":
+                y-=1
+        return x==0 and y==0
         
