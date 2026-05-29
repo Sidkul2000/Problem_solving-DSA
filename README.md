@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0649-dota2-senate) |
+| [0657-robot-return-to-origin](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0657-robot-return-to-origin) |
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0844-backspace-string-compare](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1143-longest-common-subsequence) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
