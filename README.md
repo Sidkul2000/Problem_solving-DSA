@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
