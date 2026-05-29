@@ -1,6 +1,6 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        mp = defaultdict(list)
+        mp = {}
         for i in strs:
             s = "".join(sorted(i))
             if s in mp:
