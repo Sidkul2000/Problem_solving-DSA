@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1472-design-browser-history](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1472-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1833-find-the-highest-altitude) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1472-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0969-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0969-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1472-design-browser-history) |
 ## Greedy
 |  |
 | ------- |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1472-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -522,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0062-unique-paths) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
