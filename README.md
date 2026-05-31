@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0657-robot-return-to-origin) |
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0844-backspace-string-compare](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0844-backspace-string-compare) |
+| [1041-robot-bounded-in-circle](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1143-longest-common-subsequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0844-backspace-string-compare) |
+| [1041-robot-bounded-in-circle](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1041-robot-bounded-in-circle) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2428-equal-row-and-column-pairs) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1041-robot-bounded-in-circle](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1041-robot-bounded-in-circle) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1925-count-square-sum-triples) |
