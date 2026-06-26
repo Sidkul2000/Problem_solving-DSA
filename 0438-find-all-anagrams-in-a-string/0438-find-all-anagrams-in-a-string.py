@@ -1,15 +1,15 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        pmp = {}
         smp = {}
+        pmp = {}
         res = []
-        
+
         for i in p:
             if i in pmp:
                 pmp[i] += 1
             else:
                 pmp[i] = 1
-        
+
         l = 0
         for r in range(len(s)):
             if s[r] in smp:
@@ -24,4 +24,3 @@ class Solution:
                     del smp[s[l]]
                 l += 1
         return res
-
