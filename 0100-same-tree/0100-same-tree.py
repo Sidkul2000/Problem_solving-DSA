@@ -12,9 +12,8 @@ class Solution:
             return False
         if p.val != q.val:
             return False
-        # elif p and q:
-        #     return True
-        leftSubTree = self.isSameTree(p.left, q.left)
-        rightSubTree = self.isSameTree(p.right, q.right)
-        return leftSubTree and rightSubTree
+        l = self.isSameTree(p.left, q.left)
+        r = self.isSameTree(p.right, q.right)
+        return l and r
+    
         
