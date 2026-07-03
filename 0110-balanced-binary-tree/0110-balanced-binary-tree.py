@@ -9,12 +9,13 @@ class Solution:
         def dfs(root):
             if not root:
                 return True
-            l, r = dfs(root.left), dfs(root.right)
+            l = dfs(root.left)
+            r = dfs(root.right)
             if l==-1:
                 return -1
-            if r==-1:
+            if r == -1:
                 return -1
-            if abs(r-l) >1:
+            if abs(l-r) > 1:
                 return -1
             return 1+max(l,r)
         res = dfs(root)
@@ -22,4 +23,3 @@ class Solution:
             return False
         else:
             return True
-
