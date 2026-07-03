@@ -10,6 +10,8 @@ class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         queue = deque()
         res = []
+        if not root:
+            return res
         queue.append(root)
         while queue:
             level = []
