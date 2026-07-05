@@ -11,20 +11,18 @@ class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
         if not head:
             return None
-
         mp = {}
-
-        # 1st pass: create all nodes
-        cur = head
-        while cur:
-            mp[cur] = Node(cur.val)
-            cur = cur.next
-
-        # 2nd pass: assign next and random pointers
-        cur = head
-        while cur:
-            mp[cur].next = mp.get(cur.next)
-            mp[cur].random = mp.get(cur.random)
-            cur = cur.next
+        curr = head
+        while curr:
+            mp[curr] = Node(curr.val)
+            curr = curr.next
+        
+        curr = head
+        while curr:
+            mp[curr].next = mp.get(curr.next)
+            mp[curr].random = mp.get(curr.random)
+            curr = curr.next
 
         return mp[head]
+
+        
