@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0904-fruit-into-baskets) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
+| [0881-boats-to-save-people](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0649-dota2-senate](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Linked List
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
