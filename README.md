@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1472-design-browser-history](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1472-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1732-find-the-highest-altitude](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1833-find-the-highest-altitude) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1833-find-the-highest-altitude) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
