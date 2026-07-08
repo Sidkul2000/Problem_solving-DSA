@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1046-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 ## Interactive
