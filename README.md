@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0134-gas-station) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0300-longest-increasing-subsequence) |
