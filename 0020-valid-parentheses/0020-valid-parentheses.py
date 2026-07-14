@@ -1,14 +1,15 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        mp = {')':'(', ']': '[', '}': '{'}
         stack = []
-        mp = {')': '(', ']': '[', '}': '{'}
-
-        for ch in s:
-            if ch in "([{":
-                stack.append(ch)
+        for i in s:
+            if i in '({[':
+                stack.append(i)
             else:
-                if not stack or stack[-1] != mp[ch]:
+                if not stack or stack[-1] != mp[i]:
                     return False
                 stack.pop()
+        if stack:
+            return False
+        return True
 
-        return not stack
