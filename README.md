@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0767-reorganize-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0739-daily-temperatures) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
