@@ -3,14 +3,14 @@ class Solution:
         mp = {}
         stack = []
         res = []
-        for i in range(len(nums2)-1, -1, -1):
-            while stack and stack[-1] <= nums2[i]:
-                stack.pop()
-            if not stack:
-                mp[nums2[i]] = -1
-            else:
-                mp[nums2[i]] = stack[-1]
-            stack.append(nums2[i])
+        for i in nums2:
+            while stack and stack[-1] <= i:
+                ele = stack.pop()
+                mp[ele] = i
+            stack.append(i)
         for i in nums1:
-            res.append(mp[i])
+            if i not in mp:
+                res.append(-1)
+            else:
+                res.append(mp[i])
         return res
