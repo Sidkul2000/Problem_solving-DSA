@@ -15,5 +15,9 @@ class Solution:
         r = self.lowestCommonAncestor(root.right, p, q)
         if l and r:
             return root
+        elif l:
+            return l
         else:
-            return l or r
+            return r
+        
+        
