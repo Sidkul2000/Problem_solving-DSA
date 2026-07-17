@@ -12,20 +12,32 @@ class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         if not node:
             return None
-        mp = {node.val: Node(node.val, [])}
-        queue = deque()
-        queue.append(node)
+        # mp = {node.val: Node(node.val, [])}
+        # queue = deque()
+        # queue.append(node)
 
-        while queue:
-            curr = queue.popleft()
-            clone = mp[curr.val]
+        # while queue:
+        #     curr = queue.popleft()
+        #     clone = mp[curr.val]
+        #     for n in curr.neighbors:
+        #         if n.val not in mp:
+        #             mp[n.val] = Node(n.val, [])
+        #             queue.append(n)
+
+        #         clone.neighbors.append(mp[n.val])
+        # return mp[node.val]
+        mp = {}
+
+        def dfs(curr):
+            if curr in mp:
+                return mp[curr]
+            clone = Node(curr.val, [])
+            mp[curr] = clone
+
             for n in curr.neighbors:
-                if n.val not in mp:
-                    mp[n.val] = Node(n.val, [])
-                    queue.append(n)
-
-                clone.neighbors.append(mp[n.val])
-        return mp[node.val]
-
+                clone_neighbors = dfs(n)
+                clone.neighbors.append(clone_neighbors)
+            return clone
+        return dfs(node)
 
         
