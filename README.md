@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0166-fraction-to-recurring-decimal) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0994-rotting-oranges) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0100-same-tree) |
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0079-word-search) |
 ## Memoization
 |  |
 | ------- |
