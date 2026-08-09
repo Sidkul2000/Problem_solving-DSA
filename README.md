@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0739-daily-temperatures) |
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
+| [0819-most-common-word](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0819-most-common-word) |
 | [0853-car-fleet](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0881-boats-to-save-people) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
+| [0819-most-common-word](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0657-robot-return-to-origin) |
 | [0767-reorganize-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0792-number-of-matching-subsequences) |
+| [0819-most-common-word](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0844-backspace-string-compare) |
 | [0937-reorder-data-in-log-files](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0937-reorder-data-in-log-files) |
 | [1041-robot-bounded-in-circle](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1041-robot-bounded-in-circle) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0819-most-common-word) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sidkul2000/Problem_solving-DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
